@@ -1,0 +1,1 @@
+﻿This is Category example project in React for full CRUD
